@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MI+LITTLE+RIVER+BAND+OF+OTTAWA+INDIANS+MICH",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MI+LITTLE+RIVER+BAND+OF+OTTAWA+INDIANS+MICH",
+  "title": "Federal Register - MI LITTLE RIVER BAND OF OTTAWA INDIANS MICH",
+  "fetched_at": "2026-11-23T17:41:38.686139Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 112710,
+  "sha256": "937a53efc0577d5ccfc17d38862d275a16e66ac545409f7ba5a37c227b53eb34",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
